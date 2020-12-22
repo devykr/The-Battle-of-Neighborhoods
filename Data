@@ -1,0 +1,8 @@
+The FourSquare API is used to collect data for Chinese restaurants in Stockholm Municipaly, 
+which are Stockholm City Centre (Kungsholmen, Norrmalm, Södermalm, Östermalm),
+South Stockholm (Älvsjö, Enskede-Årsta-Vantör, Farsta, Hägersten-Liljeholmen, Skarpnäck, Skärholmen),
+West Stockholm (Bromma, Hässelby-Vällingby, Rinkeby-Kista, Spånga-Tensta).
+
+For this project we need the following data :
+Sweden cities database: "https://simplemaps.com/data/se-cities".
+Chinese restaurants in Stockholm Municipality: google maps data scraping with Python and Google Colab (optional).
